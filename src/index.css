@@ -1,0 +1,59 @@
+body {
+  background-image: url("https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fillustrations%2Fmovie-theater-interior&psig=AOvVaw0MzzFCtJoOHdAdFk59SUSp&ust=1665659443549000&source=images&cd=vfe&ved=0CAgQjRxqFwoTCJiTj43H2voCFQAAAAAdAAAAABAS");
+}
+
+.form {
+  background-color: #1c1f39;
+  /* text-align: center; */
+  border-radius: 20px;
+  box-sizing: border-box;
+  height: 500px;
+  padding: 20px;
+  width: 350px;
+  color: whitesmoke;
+  margin: 8% auto 0;
+
+}
+
+.title {
+  color: #eee;
+  font-family: sans-serif;
+  font-size: 36px;
+  font-weight: 600;
+  margin-top: 30px;
+}
+input[type=number] {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border: 2px solid greenyellow;
+  border-radius: 4px;
+}
+input[type=password] {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border: 2px solid greenyellow;
+  border-radius: 4px;
+}
+.submit {
+  background-color: #08d;
+  border-radius: 12px;
+  border: 0;
+  box-sizing: border-box;
+  color: #eee;
+  cursor: pointer;
+  font-size: 18px;
+  height: 50px;
+  margin-top: 38px;
+  text-align: center;
+  width: 100%;
+}
+
+.submit:active {
+  background-color: #06b;
+}
+
+
